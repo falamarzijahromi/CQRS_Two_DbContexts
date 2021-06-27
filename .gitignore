@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CQRS_InMemory_Problem/.vs/CQRS_InMemory_Problem/v16
+/CQRS_InMemory_Problem/Solution/Write/bin/Debug/net5.0
+/CQRS_InMemory_Problem/Solution/Write/obj
+/CQRS_InMemory_Problem/Solution/Test/bin/Debug/net5.0
+/CQRS_InMemory_Problem/Solution/Test/obj
+/CQRS_InMemory_Problem/Solution/Read/bin/Debug/net5.0
+/CQRS_InMemory_Problem/Solution/Read/obj
+/CQRS_InMemory_Problem/.vs/CQRS_InMemory_Problem/DesignTimeBuild
+/CQRS_InMemory_Problem/Problem/Read/bin/Debug/net5.0
+/CQRS_InMemory_Problem/Problem/Read/obj
+/CQRS_InMemory_Problem/Problem/Test/bin/Debug/net5.0
+/CQRS_InMemory_Problem/Problem/Test/obj
+/CQRS_InMemory_Problem/Problem/Write/bin/Debug/net5.0
+/CQRS_InMemory_Problem/Problem/Write/obj
